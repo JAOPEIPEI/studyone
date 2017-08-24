@@ -1,0 +1,256 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a2_lab.studyone_6.examFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="1183dp"
+        android:layout_height="636dp"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="13dp">
+
+        <TableLayout
+            android:layout_width="670dp"
+            android:layout_height="670dp"
+            tools:layout_editor_absoluteX="15dp"
+            tools:layout_editor_absoluteY="15dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop ="5dp">
+
+                <Button
+                    android:id="@+id/button101"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+
+                <Button
+                    android:id="@+id/button102"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+
+                <Button
+                    android:id="@+id/button103"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+
+                <Button
+                    android:id="@+id/button104"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop ="10sp">
+
+                <Button
+                    android:id="@+id/button105"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+
+                <Button
+                    android:id="@+id/button106"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+
+                <Button
+                    android:id="@+id/button107"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+
+                <Button
+                    android:id="@+id/button108"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+            </TableRow>
+
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop ="10dp">
+
+                <Button
+                    android:id="@+id/button109"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+
+                <Button
+                    android:id="@+id/button110"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+
+                <Button
+                    android:id="@+id/button111"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+
+                <Button
+                    android:id="@+id/button112"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop ="10sp">
+
+                <Button
+                    android:id="@+id/button113"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+
+                <Button
+                    android:id="@+id/button114"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+
+                <Button
+                    android:id="@+id/button115"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+
+                <Button
+                    android:id="@+id/button116"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:text=""
+                    tools:layout_editor_absoluteX="95dp"
+                    tools:layout_editor_absoluteY="57dp" />
+
+            </TableRow>
+        </TableLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="100dp"
+            tools:layout_editor_absoluteY="100dp">
+
+            <TextView
+
+                android:id="@+id/text_ques"
+                android:layout_width="match_parent"
+                android:layout_height="406dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:maxLines="5"
+                android:textSize="40dp"
+                android:scrollbars="vertical"
+                android:text="Question"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+            <RadioGroup
+                android:id="@+id/radioGroup"
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal"
+
+                android:weightSum="1">
+
+                <RadioButton
+                    android:id="@+id/radiobuttin_true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="0.08"
+                    android:text="True"
+                    android:textSize="35sp" />
+
+                <RadioButton
+                    android:id="@+id/radiobutton_false"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:text="False"
+                    android:textSize="35sp" />
+
+            </RadioGroup>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/button_check"
+                    android:layout_width="50dp"
+                    android:layout_height="60dp"
+                    android:layout_weight="0.22"
+                    android:text="Check"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/text_ans"
+                    android:layout_width="50dp"
+                    android:layout_height="62dp"
+                    android:layout_weight="0.30"
+                    android:text=""
+                    android:textSize="50sp" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

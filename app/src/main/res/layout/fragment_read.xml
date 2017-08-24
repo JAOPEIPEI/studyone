@@ -1,0 +1,43 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.a2_lab.studyone_6.readFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="1000dp"
+            android:layout_height="1000dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:orientation="vertical"
+            >
+
+
+            <TextView
+                android:id="@+id/nav_read"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:maxLines="10"
+                android:scrollbars="vertical"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                android:text="setText"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+
+                />
+
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>
